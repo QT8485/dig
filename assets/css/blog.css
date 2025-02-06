@@ -332,4 +332,7 @@ text-align: center;
     .rs-drive-pick button.owl-prev {
         right: 24%;
     }
+    .rs-hero{
+        height: 400px;
+    }
 }
